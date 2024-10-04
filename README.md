@@ -2,7 +2,7 @@
 
 This is a project I decided to build that was inspired by a popular windows program used to statically analyze PE files. 
 
-I had the basic idea of this after taking a cybersecurity course. For an assignment, I had to set up logging to detect file system changes caused by a ELF malware sample, but was unable to find it because the binary was a bugged. To combat this, I decided to see if I could reverse engineer the binary and uncover the behavior through static analysis. I included some features in this program that were helpful to me in determining the binary's behavior. It's by no means as sophisticated as a proper disassembler but I thought it might be helpful in the future. 
+I had the basic idea of this after taking a cybersecurity course. For an assignment, I had to set up logging to detect file system changes caused by a ELF malware sample, but was unable to find it due to a bug in the binary. To combat this, I decided to see if I could reverse engineer the binary and uncover the intended behavior through static analysis. I included some features in this program that were helpful to me in determining the function of the binary. It's by no means as sophisticated as a proper disassembler but I thought it might be helpful to other people in the future. 
 
 Essentially, this serves as a graphical wrapper for a lot of command line utilities that displays information about an ELF binary. Hopefully it will be of some use to anyone analyzing malware for Linux systems. Any suggestions would be appreciated. 
 
