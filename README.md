@@ -13,6 +13,7 @@ Essentially, this serves as a graphical wrapper for a lot of command line utilit
 
 ### Planned Feature Set
 - Retrieve VirusTotal information (feature in development)
+- Export to txt/csv (feature in development)
 
 ### Basic Usage
 ![image](https://github.com/user-attachments/assets/f5d7f251-e147-45c7-86b4-e35163e31041)
